@@ -1,4 +1,6 @@
-## python-generalLiterature
+# General Python info
+
+## Literature
 
 | Reference/article/book | description  |
 |--|--|
@@ -6,5 +8,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTEyMjgxM119
+eyJoaXN0b3J5IjpbLTYwMTU5ODQ3MSwxMzU5MTIyODEzXX0=
 -->
