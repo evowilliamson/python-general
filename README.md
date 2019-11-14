@@ -15,9 +15,18 @@
 |--|--|
 | [C for Yourself: Exploring Python Internals at the REPL (PyTexas 2017)](https://www.youtube.com/watch?v=zhvnyGd0n8Q) | Talks about some basic memory management aspects of Python by relating to the Python implementation in C (Interning) |
 
+
+## Data structures
+
+| Reference/article/book | description  |
+|--|--|
+| [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - PyCon 2014](https://www.youtube.com/watch?v=zhvnyGd0n8Q) | Talks about some basic memory management aspects of Python by relating to the Python implementation in C (Interning) |
+
+
+# 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTEwMDc0NiwtMTEzMzUxMTYyOCwtNz
-Y1NjYwMDU5LC0zMTA4NzYzNTUsOTcyNTIzNzY3LC0xMTc3Njk4
-NzM5LC01NjMxODI0NywxNDg5ODM3NDUyLC02MDE1OTg0NzEsMT
-M1OTEyMjgxM119
+eyJoaXN0b3J5IjpbMTI0MjY5MDk4MiwtNDYxMTAwNzQ2LC0xMT
+MzNTExNjI4LC03NjU2NjAwNTksLTMxMDg3NjM1NSw5NzI1MjM3
+NjcsLTExNzc2OTg3MzksLTU2MzE4MjQ3LDE0ODk4Mzc0NTIsLT
+YwMTU5ODQ3MSwxMzU5MTIyODEzXX0=
 -->
