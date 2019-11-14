@@ -9,8 +9,12 @@
 | [Python Packaging from Init to Deploy](https://www.youtube.com/watch?v=4fzAMdLKC5k) | Youtube video that explains about setuptools, git, travis, readthedocs, PyPI |
 | [Inside the Cheeseshop: How Python Packaging Works - PyCon 2018](https://www.youtube.com/watch?v=AQsZsgJ30AE) | Good history of Python related packaging solutions and issues |
 
+## Memory management
+
+[C for Yourself: Exploring Python Internals at the REPL (PyTexas 2017)](https://www.youtube.com/watch?v=zhvnyGd0n8Q)  Good history of Python related packaging solutions and issues |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTY2MDA1OSwtMzEwODc2MzU1LDk3Mj
-UyMzc2NywtMTE3NzY5ODczOSwtNTYzMTgyNDcsMTQ4OTgzNzQ1
-MiwtNjAxNTk4NDcxLDEzNTkxMjI4MTNdfQ==
+eyJoaXN0b3J5IjpbMTM0OTg4ODM1LC03NjU2NjAwNTksLTMxMD
+g3NjM1NSw5NzI1MjM3NjcsLTExNzc2OTg3MzksLTU2MzE4MjQ3
+LDE0ODk4Mzc0NTIsLTYwMTU5ODQ3MSwxMzU5MTIyODEzXX0=
 -->
