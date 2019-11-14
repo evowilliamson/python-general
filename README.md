@@ -20,12 +20,12 @@
 
 | Reference/article/book | description  |
 |--|--|
-| [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - PyCon 2014](https://www.youtube.com/watch?v=fYlnfvKVDoM) | Talks about some basic memory management aspects of Python by relating to the Python implementation in C (Interning) |
+| [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - PyCon 2014](https://www.youtube.com/watch?v=fYlnfvKVDoM) |  |
 
 
 # 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMwMzAxODEsLTQ2MTEwMDc0NiwtMT
+eyJoaXN0b3J5IjpbLTE5NTM3MDk5MDMsLTQ2MTEwMDc0NiwtMT
 EzMzUxMTYyOCwtNzY1NjYwMDU5LC0zMTA4NzYzNTUsOTcyNTIz
 NzY3LC0xMTc3Njk4NzM5LC01NjMxODI0NywxNDg5ODM3NDUyLC
 02MDE1OTg0NzEsMTM1OTEyMjgxM119
