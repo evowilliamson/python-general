@@ -1,6 +1,6 @@
 # General Python info
 
-## Literature
+## Packaging
 
 | Reference/article/book | description  |
 |--|--|
@@ -10,7 +10,7 @@
 | [Inside the Cheeseshop: How Python Packaging Works - PyCon 2018](https://www.youtube.com/watch?v=AQsZsgJ30AE) | Good history of Python related packaging solutions and issues |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDg3NjM1NSw5NzI1MjM3NjcsLTExNz
-c2OTg3MzksLTU2MzE4MjQ3LDE0ODk4Mzc0NTIsLTYwMTU5ODQ3
-MSwxMzU5MTIyODEzXX0=
+eyJoaXN0b3J5IjpbLTc2NTY2MDA1OSwtMzEwODc2MzU1LDk3Mj
+UyMzc2NywtMTE3NzY5ODczOSwtNTYzMTgyNDcsMTQ4OTgzNzQ1
+MiwtNjAxNTk4NDcxLDEzNTkxMjI4MTNdfQ==
 -->
