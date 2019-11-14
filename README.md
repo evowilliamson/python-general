@@ -20,13 +20,13 @@
 
 | Reference/article/book | description  |
 |--|--|
-| [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - PyCon 2014](https://www.youtube.com/watch?v=fYlnfvKVDoM) |  |
+| [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - PyCon 2014](https://www.youtube.com/watch?v=fYlnfvKVDoM) | Talk about data structures and the effect its usage has on performance (arrays, lists, dicts) |
 
 
 # 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM3MDk5MDMsLTQ2MTEwMDc0NiwtMT
-EzMzUxMTYyOCwtNzY1NjYwMDU5LC0zMTA4NzYzNTUsOTcyNTIz
-NzY3LC0xMTc3Njk4NzM5LC01NjMxODI0NywxNDg5ODM3NDUyLC
-02MDE1OTg0NzEsMTM1OTEyMjgxM119
+eyJoaXN0b3J5IjpbMTExMDc0ODY5NiwtMTk1MzcwOTkwMywtND
+YxMTAwNzQ2LC0xMTMzNTExNjI4LC03NjU2NjAwNTksLTMxMDg3
+NjM1NSw5NzI1MjM3NjcsLTExNzc2OTg3MzksLTU2MzE4MjQ3LD
+E0ODk4Mzc0NTIsLTYwMTU5ODQ3MSwxMzU5MTIyODEzXX0=
 -->
