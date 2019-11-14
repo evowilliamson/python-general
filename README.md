@@ -24,13 +24,16 @@
 | [PyCon 2010: The Mighty Dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68) | Talk about data structures and the effect its usage has on performance (arrays, lists, dicts, sets) |
 
 
+04:21 Python Design
+05:29 Function creation
+08:05 Class creation
+10:48 Python scoping
+13:13 Python modules
+14:43 Python Objects
+19:15 Python Types (in C)
+22:07 Python Classes (in Python)
+26:32 Iterators
+28:32 Generators
+33:28 Decorators
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjgyMTM3NjcsLTE3NjMyNTE2NDEsMT
-k1MzQ4NDkxNCwxNDY0MzIwMzQ5LDExMTA3NDg2OTYsLTE5NTM3
-MDk5MDMsLTQ2MTEwMDc0NiwtMTEzMzUxMTYyOCwtNzY1NjYwMD
-U5LC0zMTA4NzYzNTUsOTcyNTIzNzY3LC0xMTc3Njk4NzM5LC01
-NjMxODI0NywxNDg5ODM3NDUyLC02MDE1OTg0NzEsMTM1OTEyMj
-gxM119
--->
+go on
