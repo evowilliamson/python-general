@@ -9,11 +9,11 @@
 | [Python Packaging from Init to Deploy](https://www.youtube.com/watch?v=4fzAMdLKC5k) | Youtube video that explains about setuptools, git, travis, readthedocs, PyPI |
 
 
-
+[https://www.youtube.com/watch?v=AQsZsgJ30AE](https://www.youtube.com/watch?v=AQsZsgJ30AE)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyNTIzNzY3LC0xMTc3Njk4NzM5LC01Nj
-MxODI0NywxNDg5ODM3NDUyLC02MDE1OTg0NzEsMTM1OTEyMjgx
-M119
+eyJoaXN0b3J5IjpbLTIwNjc3MjE5ODYsOTcyNTIzNzY3LC0xMT
+c3Njk4NzM5LC01NjMxODI0NywxNDg5ODM3NDUyLC02MDE1OTg0
+NzEsMTM1OTEyMjgxM119
 -->
