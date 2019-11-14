@@ -22,14 +22,14 @@
 |--|--|
 | [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - PyCon 2014](https://www.youtube.com/watch?v=fYlnfvKVDoM) | Talk about data structures and the effect its usage has on performance (arrays, lists, dicts, sets) |
 | [PyCon 2010: The Mighty Dictionary]((https://www.youtube.com/watch?v=C4Kc8xzcA68)) | Talk about data structures and the effect its usage has on performance (arrays, lists, dicts, sets) |
-| [PyCon 2010: The Mighty Dictionary]((https://www.youtube.com/watch?v=C4Kc8xzcA68)) | In-depth talk about dictionaries and their performance and space requirements and consequences |
+| [PyCon 2010: The Mighty Dictionary]((https://www.youtube.com/watch?v=C4Kc8xzcA68)) | In-depth talk about dictionaries and their performance and space requirements and consequences (hashes, collisions) |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5ODE5MDY1LDE5NTM0ODQ5MTQsMTQ2ND
-MyMDM0OSwxMTEwNzQ4Njk2LC0xOTUzNzA5OTAzLC00NjExMDA3
-NDYsLTExMzM1MTE2MjgsLTc2NTY2MDA1OSwtMzEwODc2MzU1LD
-k3MjUyMzc2NywtMTE3NzY5ODczOSwtNTYzMTgyNDcsMTQ4OTgz
-NzQ1MiwtNjAxNTk4NDcxLDEzNTkxMjI4MTNdfQ==
+eyJoaXN0b3J5IjpbLTE3NjMyNTE2NDEsMTk1MzQ4NDkxNCwxND
+Y0MzIwMzQ5LDExMTA3NDg2OTYsLTE5NTM3MDk5MDMsLTQ2MTEw
+MDc0NiwtMTEzMzUxMTYyOCwtNzY1NjYwMDU5LC0zMTA4NzYzNT
+UsOTcyNTIzNzY3LC0xMTc3Njk4NzM5LC01NjMxODI0NywxNDg5
+ODM3NDUyLC02MDE1OTg0NzEsMTM1OTEyMjgxM119
 -->
