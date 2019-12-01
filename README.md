@@ -14,7 +14,7 @@
 | Reference/article/book | description  |
 |--|--|
 | [C for Yourself: Exploring Python Internals at the REPL (PyTexas 2017)](https://www.youtube.com/watch?v=zhvnyGd0n8Q) | Talks about some basic memory management aspects of Python by relating to the Python implementation in C (Interning) |
-| [C for Yourself: Exploring Python Internals at the REPL (PyTexas 2017)](https://www.youtube.com/watch?v=zhvnyGd0n8Q) | Advanced Python topics  04:21 Python Design 05:29 Function creation 08:05 Class creation 10:48 Python scoping 13:13 Python modules 14:43 Python  Objects 19:15 Python Types (in C) 22:07 Python Classes in Python) 26:32 Iterators 28:32 Generators 33:28 Decorators 38:04 New-style classes 40:23 Descriptors 42:00 Properties 42:27 Class 
+| [C for Yourself: Exploring Python Internals at the REPL (PyTexas 2017)](https://www.youtube.com/watch?v=zhvnyGd0n8Q) | Advanced Python topics  04:21 Python Design 05:29 Function creation 08:05 Class creation 10:48 Python scoping 13:13 Python modules 14:43 Python  Objects 19:15 Python Types (in C) 22:07 Python Classes in Python) 26:32 Iterators 28:32 Generators 33:28 Decorators 38:04 New-style classes 40:23 Descriptors 42:00 Properties 42:27 Class methods and static methods
 |
 
 
@@ -29,6 +29,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjY0Njg4OCwxNzI4MDAxNTk1LC0xMj
+eyJoaXN0b3J5IjpbLTM5MTYzMTgyMywxNzI4MDAxNTk1LC0xMj
 Y1MjEwMzA2XX0=
 -->
