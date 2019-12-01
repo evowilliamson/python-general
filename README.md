@@ -28,8 +28,6 @@
 | [PyCon 2010: The Mighty Dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68) | Talk about data structures and the effect its usage has on performance (arrays, lists, dicts, sets) |
 
 
-
-go on
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY1MDc5NjVdfQ==
+eyJoaXN0b3J5IjpbLTEyNjUyMTAzMDZdfQ==
 -->
