@@ -14,7 +14,10 @@
 | Reference/article/book | description  |
 |--|--|
 | [C for Yourself: Exploring Python Internals at the REPL (PyTexas 2017)](https://www.youtube.com/watch?v=zhvnyGd0n8Q) | Talks about some basic memory management aspects of Python by relating to the Python implementation in C (Interning) |
+| [C for Yourself: Exploring Python Internals at the REPL (PyTexas 2017)](https://www.youtube.com/watch?v=zhvnyGd0n8Q) | Talks about some basic memory management aspects of Python by relating to the Python implementation in C (Interning) |
 
+
+# Advanced Python
 
 ## Data structures
 
@@ -38,5 +41,5 @@
 
 go on
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzgwOTQyOV19
+eyJoaXN0b3J5IjpbMjAxODYyOTc1M119
 -->
