@@ -14,7 +14,8 @@
 | Reference/article/book | description  |
 |--|--|
 | [C for Yourself: Exploring Python Internals at the REPL (PyTexas 2017)](https://www.youtube.com/watch?v=zhvnyGd0n8Q) | Talks about some basic memory management aspects of Python by relating to the Python implementation in C (Interning) |
-| [C for Yourself: Exploring Python Internals at the REPL (PyTexas 2017)](https://www.youtube.com/watch?v=zhvnyGd0n8Q) | Talks about some basic memory management aspects of Python by relating to the Python implementation in C (Interning) |
+| [C for Yourself: Exploring Python Internals at the REPL (PyTexas 2017)](https://www.youtube.com/watch?v=zhvnyGd0n8Q) | Advanced Python topics  04:21 Python Design 05:29 Function creation 08:05 Class creation 10:48 Python scoping 13:13 Python modules 14:43 Python  Objects 19:15 Python Types (in C) 22:07 Python Classes in Python) 26:32 Iterators 28:32 Generators 33:28 Decorators
+|
 
 
 # Advanced Python
@@ -27,19 +28,8 @@
 | [PyCon 2010: The Mighty Dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68) | Talk about data structures and the effect its usage has on performance (arrays, lists, dicts, sets) |
 
 
-04:21 Python Design
-05:29 Function creation
-08:05 Class creation
-10:48 Python scoping
-13:13 Python modules
-14:43 Python Objects
-19:15 Python Types (in C)
-22:07 Python Classes (in Python)
-26:32 Iterators
-28:32 Generators
-33:28 Decorators
 
 go on
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODYyOTc1M119
+eyJoaXN0b3J5IjpbLTE1MzY1MDc5NjVdfQ==
 -->
