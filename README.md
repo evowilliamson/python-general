@@ -24,9 +24,13 @@
 | [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - PyCon 2014](https://www.youtube.com/watch?v=fYlnfvKVDoM) | Talk about data structures and the effect its usage has on performance (arrays, lists, dicts, sets) |
 | [PyCon 2010: The Mighty Dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68) | Talk about data structures and the effect its usage has on performance (arrays, lists, dicts, sets) |
 
+## Productivity & tools
 
+| Reference/article/book | description  |
+|--|--|
+| [Dan Taylor - Get Productive with Python in Visual Studio Code]([https://www.youtube.com/watch?v=6YLMWU-5H9o](https://www.youtube.com/watch?v=6YLMWU-5H9o)) | Walkthrough of main features of the Python Extension libary for Visual Code |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjE4NjAxNSw0MDQxMzM5MDcsLTE0Mz
-QwNDg1MSwxODI1MzA5MjI5LC0zOTE2MzE4MjMsMTcyODAwMTU5
-NSwtMTI2NTIxMDMwNl19
+eyJoaXN0b3J5IjpbMTkyMTQ2OTA1LDE5MTYxODYwMTUsNDA0MT
+MzOTA3LC0xNDM0MDQ4NTEsMTgyNTMwOTIyOSwtMzkxNjMxODIz
+LDE3MjgwMDE1OTUsLTEyNjUyMTAzMDZdfQ==
 -->
