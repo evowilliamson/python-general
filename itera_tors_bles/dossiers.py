@@ -1,3 +1,7 @@
+
+import itertools as bla
+import inspect
+
 dossiers = ['The Contessa', 'Double Trouble', 'Eartha Brute', 'Kneemoi', 'Patty Larceny', 'RoboCrook', 'Sarah Nade', 'Top Grunge', 'Vic the Slick', 'Wonder Rat']
 
 for crook in dossiers:
@@ -14,3 +18,8 @@ while True:
         print(crook)
     except StopIteration:
         break    
+
+data = [100, 200, 300, 400, 500]
+
+zipped = zip(bla.count(), data)
+aaaa = bla.cycle([1, 2, 3])
