@@ -28,6 +28,7 @@
 | Reference/article/book | description  |
 |--|--|
 | [What is Gradual Typing - 2014](http://wphomes.soic.indiana.edu/jsiek/what-is-gradual-typing/) | Gradual typing is a type system I developed with Walid Taha in 2006 that allows parts of a program to be dynamically typed and other parts to be statically typed. The programmer controls which parts are which by either leaving out type annotations or by adding them in. This article gives a gentle introduction to gradual typing |
+| [Python Type Checking (Guide)](https://realpython.com/python-type-checking/#duck-types-and-protocols) | n this guide, you will get a look into Python type checking. Traditionally, types have been handled by the Python interpreter in a flexible but implicit way. Recent versions of Python allow you to specify explicit type hints that can be used by different tools to help you develop your code more efficiently |
 
 ## Productivity & tools
 
@@ -35,4 +36,13 @@
 |--|--|
 | [Dan Taylor - Get Productive with Python in Visual Studio Code]([https://www.youtube.com/watch?v=6YLMWU-5H9o](https://www.youtube.com/watch?v=6YLMWU-5H9o)) | Walkthrough of main features of the Python Extension libary for Visual Code |
 
+## Functional programming
 
+| Reference/article/book | description  |
+|--|--|
+| [Functional Programming with Python for People Without Time]([https://medium.com/@jondot/functional-programming-with-python-for-people-without-time-1eebdbd9526c) | Functional programming for the purpose of this article (and I claim — for the purpose of most of your day to day work), is all about building pipelines and moving data through those pipelines |
+
+## Classes
+| Reference/article/book | description  |
+|--|--|
+| [Spreading a Class Over Multiple Files]([https://medium.com/@jondot/functional-programming-with-python-for-people-without-time-1eebdbd9526c) | What happens if our class has some very large methods? Or lots or methods? Or both? Personally, I prefer to keep my modules under 1,000 lines, but larger classes—such as those that provide an application's data storage or a top-level window in a GUI application—can easily run to well over 1,000 lines. Fortunately, thanks to Python's flexibility and meta-programming support (don't worry, the code is short and straightforward!) we can keep our modules to a managable size by spreading a class over as many files as we like |
