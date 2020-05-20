@@ -42,6 +42,11 @@
 |--|--|
 | [Functional Programming with Python for People Without Time]([https://medium.com/@jondot/functional-programming-with-python-for-people-without-time-1eebdbd9526c) | Functional programming for the purpose of this article (and I claim — for the purpose of most of your day to day work), is all about building pipelines and moving data through those pipelines |
 
+## Reactive programming
+| Reference/article/book | description  |
+|--|--|
+| [The Reactive Extensions for Python (RxPY)]([https://github.com/ReactiveX/RxPY) | Reactive Extensions for Python (RxPY) is a set of libraries for composing asynchronous and event-based programs using observable sequences and pipable query operators in Python 
+
 ## Classes
 | Reference/article/book | description  |
 |--|--|
